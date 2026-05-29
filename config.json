@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configpave",
+        "uuid": 704871,
+        "checksum": "7jppy6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
